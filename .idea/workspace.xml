@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7d739e23-b4a2-4a48-b01d-f0bdee43edd7" name="Changes" comment="the moving train">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deitelPersonalExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/deitelPersonalExercise.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,8 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -181,7 +181,7 @@
       <workItem from="1656148189409" duration="14192000" />
       <workItem from="1656174233566" duration="1280000" />
       <workItem from="1656539167460" duration="18138000" />
-      <workItem from="1656598851348" duration="1930000" />
+      <workItem from="1656598851348" duration="3155000" />
     </task>
     <task id="LOCAL-00001" summary="the moving train">
       <created>1656600975530</created>
@@ -190,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656600975530</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="the moving train">
+      <created>1656601545485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656601545485</updated>
+    </task>
+    <task id="LOCAL-00003" summary="the moving train">
+      <created>1656601825347</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656601825348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
