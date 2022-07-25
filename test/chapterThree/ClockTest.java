@@ -21,4 +21,21 @@ public class ClockTest {
     public void clockIsEmpty(){
         assertFalse(clock.isEmpty());
     }
+    @Test
+    public void testThatClockCanReadInHours(){
+        clock.setHour(5);
+        assertEquals(5,clock.getHour());
+    }
+    @Test
+    public void testThatClockCanReadInMinutes(){
+        clock.setMinutes(24);
+        assertEquals(24,clock.getMinutes());
+
+    }@Test
+    public  void testThatClockCanReadInSeconds(){
+        clock.setSeconds(56);
+        assertEquals(56,clock.getSeconds());
+
+    }
+
 }
